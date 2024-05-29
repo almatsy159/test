@@ -1,0 +1,53 @@
+1650375872.1883934:0_notify#Starting .\serveur_try.py
+1650375872.196954:1_notify#srv_connected
+1650375872.3408523:2_notify#Making a request : 
+SHOW TABLES
+1650375872.3804915:3_notify#tables : [('content',), ('service',)]
+1650375872.3894994:4_notify#Serveur démarré associé au port 54321, mise en ecoute !
+1650375879.8838513:5_notify#client connected
+1650375879.8922677:6_notify#decoded data :0 : GET / HTTP/1.1
+Host: localhost:54321
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:99.0) Gecko/20100101 Firefox/99.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: fr,fr-FR;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: none
+Sec-Fetch-User: ?1
+Cache-Control: max-age=0
+
+
+1650375897.3497584:7_notify#client connected
+1650375897.3661737:8_notify#decoded data :1 : GET /index.html HTTP/1.1
+Host: localhost:54321
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:99.0) Gecko/20100101 Firefox/99.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: fr,fr-FR;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: none
+Sec-Fetch-User: ?1
+
+
+1650375936.1200464:9_notify#client connected
+1650375936.1290507:10_notify#decoded data :2 : GET / HTTP/1.1
+Host: localhost:54321
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:99.0) Gecko/20100101 Firefox/99.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: fr,fr-FR;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: none
+Sec-Fetch-User: ?1
+Cache-Control: max-age=0
+
+

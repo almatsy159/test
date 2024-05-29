@@ -1,0 +1,432 @@
+1650204319.8061013:0_notify#Starting .\chat_app.py
+1650204327.8119278:0_notify#Starting .\chat_app.py
+1650205026.0031416:0_notify#Starting .\chat_app.py
+1650205028.1370397:1_notify#Serveur démarré associé au port 5566, mise en ecoute !
+1650205111.3419766:0_notify#Starting .\chat_app.py
+1650205112.990288:1_notify#Serveur démarré associé au port 5566, mise en ecoute !
+1650205163.2819016:0_notify#Starting .\chat_app.py
+1650205302.989973:0_notify#Starting .\chat_app.py
+1650205322.8657465:0_notify#Starting .\chat_app.py
+1650205325.0378578:1_notify#Serveur démarré associé au port 5566, mise en ecoute !
+1650205393.1192663:0_notify#Starting .\chat_app.py
+1650205396.318776:0_notify#Starting .\chat_app.py
+1650205398.9315088:1_notify#Serveur démarré associé au port 5566, mise en ecoute !
+1650205436.014815:0_notify#Starting .\chat_app.py
+1650205439.0727746:0_notify#Starting .\chat_app.py
+1650205445.9303336:1_notify#Serveur démarré associé au port 5566, mise en ecoute !
+1650205554.6163251:0_notify#Starting .\chat_app.py
+1650205568.6413133:0_notify#Starting .\chat_app.py
+1650206241.9789784:0_notify#Starting .\serveur_try.py
+1650206241.9828892:1_notify#srv_connected
+1650206242.2019112:2_notify#Making a request : 
+SHOW TABLES
+1650206242.3026829:3_notify#tables : [('content',), ('service',)]
+1650206242.3106785:4_notify#Serveur démarré associé au port 5566, mise en ecoute !
+1650206258.7293663:0_notify#Starting .\chat_app.py
+1650206263.6543994:5_notify#client connected
+1650206263.6621118:6_notify#decoded data :0 : 
+1650206471.3656085:0_notify#Starting .\chat_app.py
+1650206474.2309058:7_notify#client connected
+1650206474.2524326:8_notify#decoded data :1 : 
+1650206479.4011798:9_notify#client connected
+1650206479.4135506:10_notify#decoded data :2 : 
+1650206569.6417906:0_notify#Starting .\chat_app.py
+1650206584.4002311:0_notify#Starting .\chat_app.py
+1650206586.3063035:11_notify#client connected
+1650206586.3180015:12_notify#decoded data :3 : 
+1650206678.8382783:0_notify#Starting .\serveur_try.py
+1650206678.858927:1_notify#srv_connected
+1650206678.950784:2_notify#Making a request : 
+SHOW TABLES
+1650206678.9713364:3_notify#tables : [('content',), ('service',)]
+1650206678.9815838:4_notify#Serveur démarré associé au port 5566, mise en ecoute !
+1650206683.5346577:0_notify#Starting .\chat_app.py
+1650206744.0755894:0_notify#Starting .\chat_app.py
+1650206746.239269:5_notify#client connected
+1650206746.2545662:6_notify#decoded data :0 : .\chat_app.py:
+1650207259.4062016:0_notify#Starting .\chat_app.py
+1650207261.7842746:0_notify#Starting ./serveur_try.py
+1650207261.795271:1_notify#srv_connected
+1650207261.870818:2_notify#Making a request : 
+SHOW TABLES
+1650207261.8848104:3_notify#tables : [('content',), ('service',)]
+1650207278.1684384:0_notify#Starting ./serveur_try.py
+1650207278.1854413:1_notify#srv_connected
+1650207278.2491276:2_notify#Making a request : 
+SHOW TABLES
+1650207278.2591279:3_notify#tables : [('content',), ('service',)]
+1650207297.5612519:0_notify#Starting .\chat_app.py
+1650207299.7177384:0_notify#Starting ./serveur_try.py
+1650207299.7312853:1_notify#srv_connected
+1650207299.7965415:2_notify#Making a request : 
+SHOW TABLES
+1650207299.809032:3_notify#tables : [('content',), ('service',)]
+1650207299.813462:4_notify#Serveur démarré associé au port 5566, mise en ecoute !
+1650207302.9895844:5_notify#client connected
+1650207303.001047:6_notify#decoded data :0 : .\chat_app.py:
+1650207311.366079:7_notify#client connected
+1650207311.3757398:8_notify#decoded data :1 : .\chat_app.py:wsl
+1650207333.068215:9_notify#client connected
+1650207333.0772643:10_notify#decoded data :2 : .\chat_app.py:wsl
+1650207339.9398115:0_notify#Starting .\chat_app.py
+1650207342.1191223:0_notify#Starting ./serveur_try.py
+1650207342.1271436:1_notify#srv_connected
+1650207342.1932347:2_notify#Making a request : 
+SHOW TABLES
+1650207342.201285:3_notify#tables : [('content',), ('service',)]
+1650207456.8351152:0_notify#Starting .\serveur_try.py
+1650207456.8511207:1_notify#srv_connected
+1650207456.9265833:2_notify#Making a request : 
+SHOW TABLES
+1650207456.941229:3_notify#tables : [('content',), ('service',)]
+1650207456.9493568:4_notify#Serveur démarré associé au port 5566, mise en ecoute !
+1650207469.4852364:0_notify#Starting .\chat_app.py
+1650207471.8047898:0_notify#Starting ./serveur_try.py
+1650207471.8047898:1_notify#srv_connected
+1650207471.8667617:2_notify#Making a request : 
+SHOW TABLES
+1650207471.878745:3_notify#tables : [('content',), ('service',)]
+1650207483.1706717:5_notify#client connected
+1650207483.177597:6_notify#decoded data :0 : .\chat_app.py:wsl
+1650207496.4010127:7_notify#client connected
+1650207496.410695:8_notify#decoded data :1 : .\chat_app.py:ls
+1650207615.9952173:0_notify#Starting .\chat_app.py
+1650207619.5914698:0_notify#Starting ./serveur_try.py
+1650207619.6077843:1_notify#srv_connected
+1650207619.6793437:2_notify#Making a request : 
+SHOW TABLES
+1650207619.6873596:3_notify#tables : [('content',), ('service',)]
+1650207619.691352:4_notify#Serveur démarré associé au port 5566, mise en ecoute !
+1650207630.3109674:5_notify#client connected
+1650207630.3194184:6_notify#decoded data :0 : .\chat_app.py:ls
+1650207630.44531:7_notify#client connected
+1650207630.453042:8_notify#decoded data :1 : .\chat_app.py:ls
+1650215810.5848818:0_notify#Starting .\chat_app.py
+1650215830.1217988:0_notify#Starting .\serveur_try.py
+1650215830.1357965:1_notify#srv_connected
+1650215830.3412614:2_notify#Making a request : 
+SHOW TABLES
+1650215830.4308803:3_notify#tables : [('content',), ('service',)]
+1650215844.615949:0_notify#Starting ./serveur_try.py
+1650215844.622981:1_notify#srv_connected
+1650215844.6910427:2_notify#Making a request : 
+SHOW TABLES
+1650215844.7090604:3_notify#tables : [('content',), ('service',)]
+1650215907.2129219:0_notify#Starting .\serveur_try.py
+1650215907.2189202:1_notify#srv_connected
+1650215907.2995398:2_notify#Making a request : 
+SHOW TABLES
+1650215907.3111353:3_notify#tables : [('content',), ('service',)]
+1650215943.828735:0_notify#Starting .\serveur_try.py
+1650215943.8356345:1_notify#srv_connected
+1650215943.9178646:2_notify#Making a request : 
+SHOW TABLES
+1650215943.9312642:3_notify#tables : [('content',), ('service',)]
+1650215997.8292305:0_notify#Starting .\serveur_try.py
+1650215997.8343117:1_notify#srv_connected
+1650215997.9042504:2_notify#Making a request : 
+SHOW TABLES
+1650215997.9242485:3_notify#tables : [('content',), ('service',)]
+1650215997.9322503:4_notify#Serveur démarré associé au port 5566, mise en ecoute !
+1650216013.6399736:0_notify#Starting .\chat_app.py
+1650216019.8106182:0_notify#Starting ./serveur_try.py
+1650216019.8166165:1_notify#srv_connected
+1650216019.8700316:2_notify#Making a request : 
+SHOW TABLES
+1650216019.8861394:3_notify#tables : [('content',), ('service',)]
+1650216039.7191525:5_notify#client connected
+1650216039.731378:6_notify#decoded data :0 : .\chat_app.py:wsl ls
+1650216212.8295274:0_notify#Starting .\chat_app.py
+1650216217.6714222:0_notify#Starting ./serveur_try.py
+1650216217.678609:1_notify#srv_connected
+1650216217.7384543:2_notify#Making a request : 
+SHOW TABLES
+1650216217.7484498:3_notify#tables : [('content',), ('service',)]
+1650216217.7525327:4_notify#Serveur démarré associé au port 5566, mise en ecoute !
+1650216239.4250398:5_notify#client connected
+1650216239.4331598:6_notify#decoded data :0 : .\chat_app.py:wsl
+1650216642.1249216:0_notify#Starting .\serveur_try.py
+1650216642.1259394:1_notify#srv_connected
+1650216642.2138553:2_notify#Making a request : 
+SHOW TABLES
+1650216642.2298613:3_notify#tables : [('content',), ('service',)]
+1650216659.602485:7_notify#client connected
+1650216659.6044726:8_notify#decoded data :1 : .\chat_app.py:wsl
+1650225152.8616645:9_notify#client connected
+1650225152.9007442:10_notify#decoded data :2 : GET / HTTP/1.1
+Host: localhost:5566
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:99.0) Gecko/20100101 Firefox/99.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: fr,fr-FR;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: none
+Sec-Fetch-User: ?1
+
+
+1650225658.2925012:0_notify#Starting .\chat_app.py
+1650226061.2275655:0_notify#Starting .\chat_app.py
+1650226067.6504393:11_notify#client connected
+1650226067.6708612:12_notify#decoded data :3 : .\chat_app.py:
+1650226067.8014731:13_notify#client connected
+1650226067.8146274:14_notify#decoded data :4 : .\chat_app.py:
+1650226068.081883:15_notify#client connected
+1650226068.0868776:16_notify#decoded data :5 : .\chat_app.py:
+1650226075.97716:17_notify#client connected
+1650226075.980523:18_notify#decoded data :6 : .\chat_app.py:wsl
+1650226229.270898:0_notify#Starting .\chat_app.py
+1650226246.1571567:19_notify#client connected
+1650226246.1571567:1_notify#client send to  port  => /mnt/c/Users/gaeta/OneDrive/Documents/prog/client_serveur/client_and_server
+ : 22h10
+
+1650226246.1598256:20_notify#decoded data :7 : .\chat_app.py:22h10
+1650226370.6247153:0_notify#Starting .\chat_app.py
+1650226385.1630027:1_notify#client send to localhost port 8888 => /mnt/c/Users/gaeta/OneDrive/Documents/prog/client_serveur/client_and_server
+ : hi
+
+1650226423.701292:2_notify#client send to localhost port 8888 => /mnt/c/Users/gaeta/OneDrive/Documents/prog/client_serveur/client_and_server
+ : GET /index.py
+
+1650226469.960907:3_notify#client send to localhost port 8888 => /mnt/c/Users/gaeta/OneDrive/Documents/prog/client_serveur/client_and_server
+ : POST /index.py
+
+1650226502.708352:4_notify#client send to localhost port 8888 => /mnt/c/Users/gaeta/OneDrive/Documents/prog/client_serveur/client_and_server
+ : POST /index.py HTTP/1.1
+
+1650227103.7464244:5_notify#client send to localhost port 8888 => /mnt/c/Users/gaeta/OneDrive/Documents/prog/client_serveur/client_and_server
+ : POST /index.py HTTP/1.1
+
+1650227452.209811:6_notify#client send to localhost port 5566 => /mnt/c/Users/gaeta/OneDrive/Documents/prog/client_serveur/client_and_server
+ : POST /index.py HTTP/1.1
+
+1650227452.223278:21_notify#client connected
+1650227452.2662761:22_notify#decoded data :8 : .\chat_app.py:POST /index.py HTTP/1.1
+1650227466.2002914:0_notify#Starting .\chat_app.py
+1650227471.4415987:23_notify#client connected
+1650227471.441097:1_notify#client send to  port  => /mnt/c/Users/gaeta/OneDrive/Documents/prog/client_serveur/client_and_server
+ : hi
+
+1650227471.4461482:24_notify#decoded data :9 : .\chat_app.py:hi
+1650372532.691218:0_notify#Starting .\serveur_try.py
+1650372532.7023568:1_notify#srv_connected
+1650372533.0178444:2_notify#Making a request : 
+SHOW TABLES
+1650372533.0887084:3_notify#tables : [('content',), ('service',)]
+1650372644.7731607:0_notify#Starting .\serveur_try.py
+1650372644.7731607:1_notify#srv_connected
+1650372644.8735955:2_notify#Making a request : 
+SHOW TABLES
+1650372644.898385:3_notify#tables : [('content',), ('service',)]
+1650372644.9086394:4_notify#Serveur démarré associé au port 5566, mise en ecoute !
+1650372658.8336234:5_notify#client connected
+1650372658.837484:7_notify#client connected
+1650372658.837484:6_notify#decoded data :0 : GET / HTTP/1.1
+Host: localhost:5566
+Connection: keep-alive
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="100", "Microsoft Edge";v="100"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.44
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: fr,fr-FR;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+
+1650372659.1087837:8_notify#client connected
+1650372659.8963807:9_notify#decoded data :1 : GET / HTTP/1.1
+Host: localhost:5566
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="100", "Microsoft Edge";v="100"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.44
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: fr,fr-FR;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+
+1650372659.9019692:10_notify#decoded data :2 : GET / HTTP/1.1
+Host: localhost:5566
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="100", "Microsoft Edge";v="100"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.44
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: fr,fr-FR;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+
+1650372672.4867613:11_notify#client connected
+1650372672.490766:12_notify#decoded data :3 : GET / HTTP/1.1
+Host: localhost:5566
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="100", "Microsoft Edge";v="100"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.44
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: fr,fr-FR;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+
+1650372672.490766:13_notify#client connected
+1650372672.7500594:14_notify#client connected
+1650372673.2257118:16_notify#decoded data :5 : 
+1650372673.225372:15_notify#decoded data :4 : 
+1650372677.8641238:17_notify#client connected
+1650372677.8678288:18_notify#decoded data :6 : GET / HTTP/1.1
+Host: localhost:5566
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="100", "Microsoft Edge";v="100"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.44
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: fr,fr-FR;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+
+1650372677.8678288:19_notify#client connected
+1650372678.1177838:20_notify#client connected
+1650372683.250145:22_notify#decoded data :8 : 
+1650372708.234299:23_notify#client connected
+1650372708.2358825:24_notify#decoded data :9 : GET / HTTP/1.1
+Host: localhost:5566
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="100", "Microsoft Edge";v="100"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.44
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: fr,fr-FR;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+
+1650372708.2358825:25_notify#client connected
+1650372708.4781177:26_notify#client connected
+1650372713.3022554:27_notify#decoded data :10 : 
+1650372713.3027747:28_notify#decoded data :11 : 
+1650372729.5040145:29_notify#client connected
+1650372729.5061686:30_notify#decoded data :12 : GET / HTTP/1.1
+Host: localhost:5566
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="100", "Microsoft Edge";v="100"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.44
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: fr,fr-FR;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+
+1650372729.5061686:31_notify#client connected
+1650372729.770986:32_notify#client connected
+1650372733.337578:33_notify#decoded data :13 : 
+1650372817.3476079:35_notify#client connected
+1650372817.3506482:37_notify#client connected
+1650372817.3506482:36_notify#decoded data :15 : GET /my_own_page.html HTTP/1.1
+Host: localhost:5566
+Connection: keep-alive
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="100", "Microsoft Edge";v="100"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.44
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: fr,fr-FR;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+
+1650372817.5979648:38_notify#client connected
+1650372818.4077199:39_notify#decoded data :16 : GET /my_own_page.html HTTP/1.1
+Host: localhost:5566
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="100", "Microsoft Edge";v="100"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.44
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: fr,fr-FR;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+
+1650372818.4104466:40_notify#decoded data :17 : GET /my_own_page.html HTTP/1.1
+Host: localhost:5566
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="100", "Microsoft Edge";v="100"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.44
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: fr,fr-FR;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+
+1671270579.0972807:0_notify#Starting .\chat_app.py
+1671270592.7038538:0_notify#Starting ./serveur_try.py
+1671270592.7038538:1_notify#srv_connected
+1671270614.5758631:0_notify#Starting ./serveur_try.py
+1671270614.588028:1_notify#srv_connected
+1671270724.0042171:0_notify#Starting .\serveur_try.py
+1671270724.0122101:1_notify#srv_connected
