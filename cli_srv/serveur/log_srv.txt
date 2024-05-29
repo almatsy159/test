@@ -1,0 +1,32 @@
+1650159103.4882617:8_notify#decoded data :1 : .\script_1.py
+1650159303.0093284:0_notify#Starting .\serveur_try.py
+1650159303.010331:1_notify#srv_connected
+1650159303.165484:2_notify#Making a request : 
+SHOW TABLES
+1650159303.210066:3_notify#tables : [('content',), ('service',)]
+1650159303.2160735:4_notify#Serveur démarré associé au port 5566, mise en ecoute !
+1650159321.799983:5_notify#client connecté
+1650159321.80454:6_notify#decoded data :0 : .\script_1.py
+1650159511.606864:7_notify#client connecté
+1650159511.608866:8_notify#decoded data :1 : 
+1650159525.8166947:9_notify#client connecté
+1650159525.8191957:10_notify#decoded data :2 : 0
+1650159530.4068391:11_notify#client connecté
+1650159530.409346:12_notify#decoded data :3 : 01
+1650159533.1125045:13_notify#client connecté
+1650159533.1165082:14_notify#decoded data :4 : 012
+1650228204.7894793:0_notify#Starting .\serveur_try.py
+1650228204.8076057:1_notify#srv_connected
+1650228205.0585968:2_notify#Making a request : 
+SHOW TABLES
+1650228205.1506474:3_notify#tables : [('content',), ('service',)]
+1650373029.2330172:0_notify#Starting .\serveur_try.py
+1650373029.246156:1_notify#srv_connected
+1650373029.3417091:2_notify#Making a request : 
+SHOW TABLES
+1650373029.366415:3_notify#tables : [('content',), ('service',)]
+1650373029.366415:4_notify#Serveur démarré associé au port 5566, mise en ecoute !
+1650373036.1171877:5_notify#client connected
+1650373036.1216433:6_notify#decoded data :0 : b'GET /my_own_page.html HTTP/1.1\r\nHost: localhost:5566\r\nConnection: keep-alive\r\nCache-Control: max-age=0\r\nsec-ch-ua: " Not A;Brand";v="99", "Chromium";v="100", "Microsoft Edge";v="100"\r\nsec-ch-ua-mobile: ?0\r\nsec-ch-ua-platform: "Windows"\r\nUpgrade-Insecure-Requests: 1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.44\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: navigate\r\nSec-Fetch-User: ?1\r\nSec-Fetch-Dest: document\r\nAccept-Encoding: gzip, deflate, br\r\nAccept-Language: fr,fr-FR;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6\r\n\r\n'
+1714411151.637248:0_notify#Starting serveur_try.py
+1714411151.637529:1_notify#srv_connected

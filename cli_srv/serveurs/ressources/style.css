@@ -1,0 +1,35 @@
+
+/* selecteur propriete valeur */
+p["name"="par_ital"]{
+  font-style: italic;
+}
+
+
+div,p{
+color:blue;
+font_size:16px;
+}
+
+/* advanced selector */
+h1 + p {
+  font-size: 22 px;
+}
+
+p["class"]{
+  color:red;
+}
+p["class"*="x"]
+
+p["class"="main_p"]
+.main_p{
+  color:blue;
+  font-size: 18px;
+}
+
+#first_id{
+  font:20px;
+}
+
+*{
+
+}
